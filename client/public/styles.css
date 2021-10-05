@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: lightgray;
+}
+#bathtub {
+  width: 90vw;
+  height: 50vh;
+  background: whitesmoke;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 5vw;
+}
+
+#buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.water {
+  height: 20px;
+  background: blue;
+}
+
+button {
+  height: 200px;
+  padding: 5px;
+}
