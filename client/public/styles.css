@@ -24,6 +24,7 @@ body {
 .water {
   height: 20px;
   background: blue;
+  color: blue;
 }
 
 button {
